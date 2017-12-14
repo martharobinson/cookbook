@@ -1,4 +1,4 @@
 # The perfect secret ingredients
-- parsley
+- corriander
 - avocado
 - limes
